@@ -93,3 +93,5 @@ assert_equal(response, "54321")
 ~~~
 
 %%%
+
+<a href='https://learn.co/lessons/ruby-repl-whitespace' data-visibility='hidden'>Learn.co resource</a>
